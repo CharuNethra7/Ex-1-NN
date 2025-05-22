@@ -37,7 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-
+```
 import pandas as pd
 import io
 from sklearn.preprocessing import StandardScaler
@@ -75,7 +75,7 @@ X_test
 
 print("Lenght of X_test ",len(X_test))
 
-
+```
 ## OUTPUT:
 ### Dataset:
 ![OP1](https://github.com/user-attachments/assets/322a482e-02cb-4cfa-95bf-3d1d67eb9383)
